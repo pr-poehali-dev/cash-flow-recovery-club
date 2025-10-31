@@ -446,7 +446,7 @@ const Index = () => {
             </div>
           </div>
           <div className="pt-8 border-t border-border text-center text-muted-foreground">
-            <p>© 2024 КассаКлуб. Все права защищены.</p>
+            <p>© 2025 КассаКлуб. Все права защищены.</p>
           </div>
         </div>
       </footer>
